@@ -930,6 +930,14 @@ h6 {
   line-height: 26px;
 }
 
+#footer .footer-top .footer-contact a {
+  color: #f9eae2;
+}
+
+#footer .footer-top .footer-contact a:hover {
+  color:#ddbe93;
+}
+
 #footer .footer-top .footer-newsletter {
   margin-bottom: 30px;
 }
