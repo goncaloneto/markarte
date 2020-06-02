@@ -1,10 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body {
   background: #fff;
   color: #444;
   font-family: "Open Sans", sans-serif;
 }
 
-#logo
+#logo svg
+{
+  width: 100%;
+  height: 100%;
+  fill: #92340f;
+} 
+
+/* #logo
 {
   font-size: 34px;
   margin: 0 0 20px 0;
@@ -14,7 +24,7 @@ body {
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
-}
+} */
 
 #in-construction
 {
