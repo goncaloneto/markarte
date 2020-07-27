@@ -14,6 +14,15 @@ body {
   fill: #92340f;
 } 
 
+@media only screen and (max-width: 400px) {
+  #logo svg
+  {
+    width: 70%;
+    height: 70%;
+    fill: #92340f;
+  } 
+}
+
 /* #logo
 {
   font-size: 34px;
