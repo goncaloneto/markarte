@@ -1,8 +1,3 @@
-$('#carousel').carousel({
-  interval: 6000,
-  pause: "false"
-});
-
 (function ($) {
   "use strict";
 
