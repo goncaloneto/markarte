@@ -645,17 +645,17 @@ h6 {
 /* Porque Nos 
 --------------------------------*/
 
-#why-us {
+#cars {
   padding: 60px 0;
   background: #9f4816;
 }
 
-#why-us .section-header h3,
-#why-us .section-header p {
+#cars .section-header h3,
+#cars .section-header p {
   color: #fff;
 }
 
-#why-us .card {
+#cars .card {
   background: #f09039;
   border-color: #f09039;
   border-radius: 10px;
@@ -667,28 +667,33 @@ h6 {
   height: 100%;
 }
 
-#why-us .card:hover {
+#cars img {
+  padding: 10px;
+  border-radius: 25px;
+}
+
+#cars .card:hover {
   background: rgba(222, 115, 32, 0.77);
   border-color: rgba(222, 115, 32, 0.77);
 }
 
-#why-us .card i {
+#cars .card i {
   font-size: 48px;
   padding-top: 15px;
   color: #fdd1c0;
 }
 
-#why-us .card h5 {
+#cars .card h5 {
   font-size: 22px;
   font-weight: 600;
 }
 
-#why-us .card p {
+#cars .card p {
   font-size: 15px;
   color: #d8eafe;
 }
 
-#why-us .card .readmore {
+#cars .card .readmore {
   color: #fff;
   font-weight: 600;
   display: inline-block;
@@ -696,15 +701,15 @@ h6 {
   border-bottom: #f09039 solid 2px;
 }
 
-#why-us .card .readmore:hover {
+#cars .card .readmore:hover {
   border-bottom: #fff solid 2px;
 }
 
-#why-us .counters {
+#cars .counters {
   padding-top: 40px;
 }
 
-#why-us .counters span {
+#cars .counters span {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 48px;
@@ -712,7 +717,7 @@ h6 {
   color: #fff;
 }
 
-#why-us .counters p {
+#cars .counters p {
   padding: 0;
   margin: 0 0 20px 0;
   font-family: "Montserrat", sans-serif;
@@ -1043,7 +1048,7 @@ h6 {
     text-align: center;
   }
 
-  #why-us .card {
+  #cars .card {
     margin: 0;
   }
 }
