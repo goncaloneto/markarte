@@ -35,17 +35,12 @@ body {
   text-transform: uppercase;
 } */
 
-#in-construction
-{
-  background: #92340f;
-  color: white;
-  text-align: center;
-  margin-top: 15px;
-  padding: 30px;
-}
-
 #carousel{
   margin-top: 60px;
+}
+
+#carousel a{
+  -webkit-transition: all 0.5s ease;
 }
 
 a {
